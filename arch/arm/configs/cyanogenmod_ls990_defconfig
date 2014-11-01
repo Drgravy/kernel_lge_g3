@@ -265,6 +265,11 @@ CONFIG_MUTEX_SPIN_ON_OWNER=y
 CONFIG_FREEZER=y
 
 #
+# Touchscreen extras
+#
+CONFIG_TOUCHSCREEN_SWEEP2WAKE=y
+
+#
 # System Type
 #
 CONFIG_MMU=y
